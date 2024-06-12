@@ -4,7 +4,7 @@ Este é um projeto divertido para o Dia dos Namorados que envolve um "botão fuj
 
 ## Demonstração
 
-Você pode ver uma demonstração do projeto <a href="https://vinishireis.github.io/Dia_dos_namorados/">.
+Você pode ver uma demonstração do projeto <a href="https://vinishireis.github.io/Dia_dos_namorados/">Demo</a>.
 
 ## Tecnologias Utilizadas
 
